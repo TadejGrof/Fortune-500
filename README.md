@@ -5,16 +5,20 @@ Analiziral bom prvih 500 gospodarskih družb v ZDA glede na letni prihodek. Poda
 
 Za vsako koorporacijo bom zajel:
 
--Ime
--Direktorja in stevilo zaposlenih,
--Letni prihodek in zaslužek,
--S čim se ukvarjajo,
--Sedež firme,
--število let med top 500,
--Prihodke ter zaslužke v vseh teh letih.
+* Ime ter sedež firme,
+* Direktorja,
+* S čim se ukvarja,
+* Število let na lestvici
+* Za vsako leto:
+    - Mesto na lestvici
+    - Število zaposlenih
+    - Letni prihodek in zaslužek,
+    
 
 Delovne hipoteze:
 
-
+- Večje število delavcev vodi do večjega prihodka vendarne nujno zaslužka,
+- 
+- 
 
 
