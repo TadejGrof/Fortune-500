@@ -7,18 +7,19 @@ Za vsako koorporacijo bom zajel:
 
 * Ime ter sedež firme,
 * Direktorja,
-* S čim se ukvarja,
+* Sektor in industrijo
 * Število let na lestvici
 * Za vsako leto:
     - Mesto na lestvici
     - Število zaposlenih
     - Letni prihodek in zaslužek,
+    - Sredstva ter delniško vrednost
     
-
 Delovne hipoteze:
 
-- Večje število delavcev vodi do večjega prihodka vendarne nujno zaslužka,
-- 
-- 
+- Vzroki za večje skoke na lestvici
+- Letne spremembe v odvisnosti od sektorja in indrustrije
+- Večje število delavcev vodi do večjega prihodka vendar ne nujno zaslužka,
+
 
 
