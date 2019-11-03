@@ -1,0 +1,54 @@
+digestPoll( {
+	 "poll":{
+		 "id":"152243",
+		 "question":"How familiar are you with Refinitiv?",
+		 "answers":{
+		 "allowed":"1",
+		 "order":"F",
+		 "answer":[
+			 {
+				 "id":"1040846",
+				 "locked":"false",
+				 "mx":"false",
+				 "posresp":"true",
+				 "text":"Very Familiar"
+			 },
+			 {
+				 "id":"1040847",
+				 "locked":"false",
+				 "mx":"false",
+				 "posresp":"true",
+				 "text":"Somewhat Familiar"
+			 },
+			 {
+				 "id":"1040848",
+				 "locked":"false",
+				 "mx":"false",
+				 "posresp":"false",
+				 "text":"Neither Familiar or Unfamiliar"
+			 },
+			 {
+				 "id":"1040849",
+				 "locked":"false",
+				 "mx":"false",
+				 "posresp":"false",
+				 "text":"Somewhat Unfamiliar"
+			 },
+			 {
+				 "id":"1040850",
+				 "locked":"false",
+				 "mx":"false",
+				 "posresp":"false",
+				 "text":"Very Unfamiliar"
+			 },
+			 {
+				 "id":"1040851",
+				 "locked":"false",
+				 "mx":"false",
+				 "posresp":"false",
+				 "text":"Not aware of Refinitiv"
+			 }
+			 ]
+		 }
+	 }
+} )
